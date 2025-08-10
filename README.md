@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 
+# I'm Claris, a senior software engineer and game developer from South Africa. Most of my repos here are private, sorry... However, feel free to peruse some of my public projects
+
+[![Claris' GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDollarGameStore)](https://github.com/TheDollarGameStore/github-readme-stats)
 <!--
 **TheDollarGameStore/TheDollarGameStore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
