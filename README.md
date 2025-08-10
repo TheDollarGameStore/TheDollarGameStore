@@ -5,7 +5,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-git-master-claris-projects-480f6285.vercel.app/api?username=TheDollarGameStore&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-claris.vercel.app/api?username=TheDollarGameStore&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 <!--
